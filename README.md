@@ -1,0 +1,1 @@
+# Configurando-o-ESLint-e-o-Prettier-em-um-projeto-Angular-18
